@@ -3,7 +3,7 @@ Atualização ELIA IA  3.9.0
 
 ATENÇÃO FAZER BACKUP ANTES DE QUALQUER ALTERAÇÃO
 
-Extraia o arquivo Multizap.zip e utiliza as pastas backend e frontend para o tutorial.
+Extraia o arquivo ELIA-IA.zip e utiliza as pastas backend e frontend para o tutorial.
 
 ------------------------------------------------------------------------------------------------------
 NO SEU SISTEMA (PELO TERMINAL SSH)
